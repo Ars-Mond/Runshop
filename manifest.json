@@ -1,0 +1,10 @@
+{
+  "name": "Runshop",
+  "id": "1153255730881762508",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": [
+    "figma"
+  ],
+  "ui": "ui.html"
+}
